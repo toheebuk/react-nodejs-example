@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
@@ -193,3 +194,6 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
 >>>>>>> 370416e7b37bab20b9bc535945817deca76ca5b6
+=======
+
+>>>>>>> b2f1440f72c36d31347bbeb1fca32484969583b9
